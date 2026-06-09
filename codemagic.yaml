@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.vesyvikolder.vedikilasedf
       vars:
-        APP_STORE_APPLE_ID: 6756238326
+        APP_STORE_APPLE_ID: 6778306486
         BUNDLE_ID: 'com.vesyvikolder.vedikilasedf'
         XCODE_WORKSPACE: 'MontrealCasinoVisitPass.xcworkspace'
         XCODE_SCHEME: 'MontrealCasinoVisitPass'
